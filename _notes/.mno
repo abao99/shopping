@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
+	<infoitem key="MM_Session_Count" value="7" />
+	<infoitem key="MM_Session1" value="Cart" />
+	<infoitem key="MM_Session2" value="Name" />
+	<infoitem key="MM_Session3" value="Price" />
+	<infoitem key="MM_Session4" value="Quantity" />
+	<infoitem key="MM_Session5" value="itemTotal" />
+	<infoitem key="MM_Session6" value="Total" />
+	<infoitem key="MM_Session7" value="O_ID" />
+</info>
